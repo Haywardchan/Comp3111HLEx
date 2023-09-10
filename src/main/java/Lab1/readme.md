@@ -1,8 +1,8 @@
-This is my first lab in Comp3111H - Software Engineering
+This is my first lab in Comp3111H - Honors Software Engineering
 
 I have done the following 2 exercises
-1. building a IntelliJ Java project
-2. committing and pushing of different updates required to my GitHub
+1. Building a IntelliJ Java project
+2. Committing and pushing different updates required to my GitHub
 
 For your interest, this will be the folder for navigation of Comp3111H contents
 
